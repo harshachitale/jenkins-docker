@@ -1,0 +1,15 @@
+Started by user [8mha:////4MPJ1jeB3XgJW2XfVhmiaRM9ldOQeXS6qhOvNjGDMG2bAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgYe/dLi1CL9jMSi4oxEAOeJSxLBAAAA[0mHarsha Chitale
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/test
+[SSH] executing pre build script:
+
+echo "hey...I'm back..try to catch me....this time I'm unstoppable"
+hey...I'm back..try to catch me....this time I'm unstoppable
+
+[SSH] completed
+[SSH] exit-status: 0
+
+[SSH] executing post build script:
+
+
+Finished: SUCCESS
